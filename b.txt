@@ -1,5 +1,9 @@
 doLogin
+
 doRegister
+
+logout
+
 
 add
 commit => 做出一個版本
