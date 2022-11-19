@@ -1,2 +1,4 @@
+doRegister
+
 add
 commit => 做出一個版本
